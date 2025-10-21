@@ -12,6 +12,7 @@ import Footer from '../components/Footer'
 const Home = () => {
   return (
     <div>
+      
         <NavBar/>
         <HeroSection/>
         <CraftSection/>
